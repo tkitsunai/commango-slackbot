@@ -1,0 +1,6 @@
+[Slack]
+Token = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+Channel = "#channel_name"
+User = "commango"
+Icon = ":robot:"
+BotID = "XXXXXXX"
